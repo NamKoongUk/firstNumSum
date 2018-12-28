@@ -1,1 +1,2 @@
-Coding that stores the input integer value as a character type and then obtains the sum of the values of the first integer through the loop
+The input integer value is stored in a character type. 
+Returns the sum of the first integer values through the loop.
